@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace pruebagit
 {
-    class Program
+    interface Reparable
     {
-        static void Main(string[] args)
-        {
-            
-
-        }
     }
 }
